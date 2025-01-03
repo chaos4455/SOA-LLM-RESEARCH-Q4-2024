@@ -1,6 +1,17 @@
 <div align="center">
 
-# 👨‍💻 chaos4455 - Especialista em LLMs e NLP 🐍
+# 👨‍💻 Elias Andrade - Especialista em LLMs e NLP 🐍
+
+<img width="671" alt="chrome_zp58d7LveG" src="https://github.com/user-attachments/assets/238242d5-1d85-4ee1-a659-d21e3c0ba436" />
+
+![heatmap_clusters_20241228_093334_08d1de2b](https://github.com/user-attachments/assets/ceda5709-4acb-4ef3-8271-bb691051bb4a)
+
+
+
+
+https://github.com/user-attachments/assets/1e5c2809-4cfa-4cdb-9240-b1b9334c962d
+
+
 
 <p>
   Um portfólio dedicado à exploração avançada de Modelos de Linguagem e Processamento de Linguagem Natural.
@@ -16,7 +27,7 @@
 ## 🌟 INTRODUÇÃO
 
 <p>
-Olá! 👋 Sou chaos4455, um entusiasta e especialista em Inteligência Artificial, com foco em Modelos de Linguagem de Grande Escala (LLMs) e Processamento de Linguagem Natural (NLP). Este portfólio reflete minha paixão e profundo conhecimento em transformar LLMs como o Google Gemini, através de técnicas avançadas de fine-tuning, em soluções de alto desempenho para uma variedade de aplicações. Minha experiência abrange desde a manipulação de modelos base com Hugging Face até a construção de aplicações robustas com embeddings, bancos de dados vetoriais (Qdrant), e arquiteturas complexas como BERT. Utilizo Python como minha principal ferramenta, e este repositório é uma demonstração prática da minha jornada e habilidades nesse campo dinâmico e fascinante.
+Olá! 👋 Sou Elias Andrade, um entusiasta e especialista em Inteligência Artificial, com foco em Modelos de Linguagem de Grande Escala (LLMs) e Processamento de Linguagem Natural (NLP). Este portfólio reflete minha paixão e profundo conhecimento em transformar LLMs como o Google Gemini, através de técnicas avançadas de fine-tuning, em soluções de alto desempenho para uma variedade de aplicações. Minha experiência abrange desde a manipulação de modelos base com Hugging Face até a construção de aplicações robustas com embeddings, bancos de dados vetoriais (Qdrant), e arquiteturas complexas como BERT. Utilizo Python como minha principal ferramenta, e este repositório é uma demonstração prática da minha jornada e habilidades nesse campo dinâmico e fascinante.
 </p>
   
 </div>
